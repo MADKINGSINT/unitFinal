@@ -1,0 +1,16 @@
+************* Module task
+task.py:11:0: C0303: Trailing whitespace (trailing-whitespace)
+task.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+task.py:2:0: C0115: Missing class docstring (missing-class-docstring)
+task.py:3:4: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:8:4: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:14:8: R1705: Unnecessary "else" after "return", remove the "else" and de-indent the code inside it (no-else-return)
+task.py:18:0: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:22:0: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:30:0: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:34:0: C0116: Missing function or method docstring (missing-function-docstring)
+task.py:38:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 6.76/10 (previous run: 6.76/10, +0.00)
